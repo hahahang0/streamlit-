@@ -1,0 +1,4 @@
+stremlit commands 
+1) uv init proj_name(regression_blablabla)
+2) cd into main directory and use command add streamlit
+uvx streamlit run main.py
